@@ -19,11 +19,12 @@
  
  ** Conducted 100+ Full time ILT training programs on Testing Tools/Scrum/ATDD&BDD and hundreds of software engineers got benefited         through these training.  Has introduced "Agile Testing", "RFT", “ATDD/BDD”, "Selenium WD" and “Jenkins” trainings at Wipro               Technologies. (includes Future Ready, Top Gear  Forums)
  
- ** Has published 25+ technical papers in International Conferences and reputed International Journals.
-    https://scholar.google.com/citations?user=8NAaUygAAAAJ&hl=en  
+ ** Has published 25+ technical papers in International Conferences and reputed International Journals. [Published Papers]
+    (https://scholar.google.com/citations?user=8NAaUygAAAAJ&hl=en)
+    
    
- ** Spoke at Google Tech Talks (GTAC - 2016) on “ML Algorithms for setting up Mobile Test Environment”   
-    https://www.youtube.com/watch?v=RfQi5PNO4L8  and STPCon-Fall 2017
+ ** Spoke at Google Tech Talks (GTAC - 2016) on [ML Algorithms for setting up Mobile Test Environment]   
+    (https://www.youtube.com/watch?v=RfQi5PNO4L8)  and [STPCon-Fall 2017](http://fall2017.stpcon.com/speakers/rajkumar-j-bhojan/)
    
  ** Received “BEST Thought Leader – 2016” Award from Wipro BAS-QET.  
  
