@@ -27,6 +27,8 @@
    
  ** Received “BEST Thought Leader – 2016” Award from Wipro BAS-QET.  
  
+ ** Member of IEEE, ACM and AAAI
+ 
  ** Filed a couple of Patents in IPO, EPO and USPTO; Patents Inventions are spanning around AI agents and ML algorithms.
  
  ** Interested in implementing Digital technologies (Hyper Automation / DevOps /Machine Learning / AI)
