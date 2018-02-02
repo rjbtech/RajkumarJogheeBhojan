@@ -1,6 +1,6 @@
-RAJKUMAR JOGHEE BHOJAN
+##RAJKUMAR JOGHEE BHOJAN
 
-SUMMARY:
+**SUMMARY:**
 
  ** Accomplished QA/Test Automation profession with 14.6 years of progressive experience and proven record of significant,                   successful contribution in quality management, project management, process improvement, product-development life cycle                   methodologies and standards in a wide range of organizations. 
  
@@ -32,7 +32,7 @@ SUMMARY:
  ** Interested in implementing Digital technologies (Hyper Automation / DevOps /Machine Learning / AI)
 
 
-AREAS OF EXPERTISE:
+**AREAS OF EXPERTISE:**
 
  ** TA Framework Designing & Development
  
