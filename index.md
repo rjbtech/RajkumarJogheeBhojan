@@ -15,13 +15,13 @@ SUMMARY:
  ** Has demonstrated expertise in Effort Estimation, Resource allocation & Loading, Project Tracking, Automating the functionality,         System/Integration/ Regression/UAT Testing with knowledge of all aspects of SDLC. 
  
  ** Has executed 25+ projects in diverse geographies including India, Australia & USA and contributed unique solutions to customers.  
- ** Worked as a Scrum Master in couple of projects and has facilitated Scrum planning, Daily standup, reviewed backlogs, Sprint             Review, Sprint Retrospective meetings, stakeholder meetings and software demonstrations.
+    Worked as a Scrum Master in a couple of projects and has facilitated Scrum planning, Daily standup, reviewed backlogs, Sprint           Review, Sprint Retrospective meetings, stakeholder meetings and software demonstrations.
  
  ** Conducted 100+ Full time ILT training programs on Testing Tools/Scrum/ATDD&BDD and hundreds of software engineers got benefited         through these training.  Has introduced "Agile Testing", "RFT", “ATDD/BDD”, "Selenium WD" and “Jenkins” trainings at Wipro               Technologies. (includes Future Ready, Top Gear  Forums)
  
  ** Has published 25+ technical papers in International Conferences and reputed International Journals.
-
    https://scholar.google.com/citations?user=8NAaUygAAAAJ&hl=en  
+   
  ** Spoke at Google Tech Talks (GTAC - 2016) on “ML Algorithms for setting up Mobile Test Environment”   
    https://www.youtube.com/watch?v=RfQi5PNO4L8  and STPCon-Fall 2017
    
