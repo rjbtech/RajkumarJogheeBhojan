@@ -35,11 +35,19 @@ SUMMARY:
 AREAS OF EXPERTISE:
 
  ** TA Framework Designing & Development
+ 
  ** Frameworks - Mobile/ATDD/BDD/Cucumber/TestNG/AI Driven
+ 
  ** CI-Continuous Integration (Jenkins)	
+ 
  ** Tools Used – Selenium, QTP/UFT, RFT, RQM, TDM (Data Maker),  Git/GitHub,  Robot, Silk Test, Squish, Ranorex, BDD, SVN, QC,               Appium, SeeTest, Dockers
- ** Project/Program Management		
+ 
+  ** Project/Program Management		
+  
  ** Certified Scrum Master (CSM)	
+ 
  ** Cloud Technology – AWS, GCP		
- ** Consulting & Customer Engagements		
+ 
+ ** Consulting & Customer Engagements	
+ 
  ** Languages -  Python / Java / VB /C# 
