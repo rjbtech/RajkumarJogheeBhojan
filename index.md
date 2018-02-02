@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+RAJKUMAR JOGHEE BHOJAN
 
-You can use the [editor on GitHub](https://github.com/rjbtech/RajkumarJogheeBhojan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+SUMMARY:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  Accomplished QA/Test Automation profession with 14.6 years of progressive experience and proven record of significant,                   successful contribution in quality management, project management, process improvement, product-development life cycle                   methodologies and standards in a wide range of organizations.  
+  Designed and developed many Test Automation Frameworks (Hybrid/Modular/Keyword/BDD) from scratch and implemented in many                 projects.  Since 2007, has been associated to Test Automation / Digital Practice, Wipro Technologies. 
+  Designed and developed a couple of  Machine Learning models for business scenarios 
+  Has hands-on experience in Test Architecting, Planning, Developing Strategies, Framework Designing, Coding, Debugging and               implementing Automated Testing Projects.  
+  Holds M.Sc., (Phy), MCA., M.Phil.,
+  Has demonstrated expertise in Effort Estimation, Resource allocation & Loading, Project Tracking, Automating the functionality,         System/Integration/ Regression/UAT Testing with knowledge of all aspects of SDLC. 
+  Has executed 25+ projects in diverse geographies including India, Australia & USA and contributed unique solutions to customers.  
+  Worked as a Scrum Master in couple of projects and has facilitated Scrum planning, Daily standup, reviewed backlogs, Sprint             Review, Sprint Retrospective meetings, stakeholder meetings and software demonstrations.
+  Conducted 100+ Full time ILT training programs on Testing Tools/Scrum/ATDD&BDD and hundreds of software engineers got benefited         through these training.  Has introduced "Agile Testing", "RFT", “ATDD/BDD”, "Selenium WD" and “Jenkins” trainings at Wipro               Technologies. (includes Future Ready, Top Gear  Forums)
+  Has published 25+ technical papers in International Conferences and reputed International Journals.
 
-### Markdown
+  https://scholar.google.com/citations?user=8NAaUygAAAAJ&hl=en  
+  Spoke at Google Tech Talks (GTAC - 2016) on “ML Algorithms for setting up Mobile Test Environment”   
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  https://www.youtube.com/watch?v=RfQi5PNO4L8  and STPCon-Fall 2017
+  Received “BEST Thought Leader – 2016” Award from Wipro BAS-QET.  
+  Filed a couple of Patents in IPO, EPO and USPTO; Patents Inventions are spanning around AI agents and ML algorithms.
+  Interested in implementing Digital technologies (Hyper Automation / DevOps /Machine Learning / AI)
+AREAS OF EXPERTISE:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rjbtech/RajkumarJogheeBhojan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  TA Framework Designing & Development
+  Frameworks - Mobile/ATDD/BDD/Cucumber/TestNG/AI Driven
+  CI-Continuous Integration (Jenkins)	
+  Tools Used – Selenium, QTP/UFT, RFT, RQM, TDM (Data Maker),  Git/GitHub,  Robot, Silk Test, Squish, Ranorex, BDD, SVN, QC,               Appium, SeeTest, Dockers
+   Project/Program Management		
+   Certified Scrum Master (CSM)	
+   Cloud Technology – AWS, GCP		
+   Consulting & Customer Engagements		
+   Languages -  Python / Java / VB /C# 
