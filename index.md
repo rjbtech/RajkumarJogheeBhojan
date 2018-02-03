@@ -23,8 +23,11 @@
     [Published Papers](https://scholar.google.com/citations?user=8NAaUygAAAAJ&hl=en)
     
    
- ** Spoke at Google Tech Talks (GTAC - 2016) on [ML Algorithms for setting up Mobile Test Environment](https://www.youtube.com/watch?v=RfQi5PNO4L8)  and [STPCon-Fall 2017](http://fall2017.stpcon.com/speakers/rajkumar-j-bhojan/), 
- [ITPC](http://princetonacm.acm.org/tcfpro/),[ATAGG](http://atagg.agiletestingalliance.org/speakers_details.html#rajkumar),[IEEE,Oakland University](http://sites.ieee.org/sem/files/2014/03/IEEE-SEM-S2014-Conf-Schedule-SPEAKERS-0325614.pdf)
+ ** Spoke at Google Tech Talks (GTAC - 2016) on [ML Algorithms for setting up Mobile Test Environment](https://www.youtube.com/watch?v=RfQi5PNO4L8),
+ [STPCon-Fall 2017 - Leveraging Machine Learning Algorithm in Mobile Testing](http://fall2017.stpcon.com/speakers/rajkumar-j-bhojan/), 
+ [ITPC - BDD and Continuous Testing in DevOps Era](http://princetonacm.acm.org/tcfpro/TCF_ITPC_2016_Program.pdf),
+ [Benefits of BDD in Digital Era](http://atagg.agiletestingalliance.org/speakers_details.html#rajkumar),
+ [IEEE,Oakland University](http://sites.ieee.org/sem/files/2014/03/IEEE-SEM-S2014-Conf-Schedule-SPEAKERS-0325614.pdf)
    
  ** Received “BEST Thought Leader – 2016” Award from Wipro BAS-QET.  
  
