@@ -6,7 +6,7 @@
  
  **  Designed and developed many Test Automation Frameworks (Hybrid/Modular/Keyword/BDD) from scratch and implemented in many                projects.  Since 2007, has been associated to Test Automation / Digital Practice, Wipro Technologies.
  
- **  Designed and developed a couple of  Machine Learning models for business scenarios 
+ **  Designed and developed a couple of  Machine Learning pilot models for business scenarios 
  
  **  Has hands-on experience in Test Architecting, Planning, Developing Strategies, Framework Designing, Coding, Debugging and                implementing Automated Testing Projects. 
  
