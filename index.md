@@ -2,7 +2,7 @@
 
 **SUMMARY:**
 
- ** Accomplished QA/Test Automation profession with 14.6 years of progressive experience and proven record of significant,                   successful contribution in quality management, project management, process improvement, product-development life cycle                   methodologies and standards in a wide range of organizations. 
+ ** Accomplished Automation profession with 14.8 years of progressive experience and proven record of significant,                   successful contribution in quality management, project management, process improvement, product-development life cycle                   methodologies and standards in a wide range of organizations. 
  
  **  Designed and developed many Test Automation Frameworks (Hybrid/Modular/Keyword/BDD) from scratch and implemented in many                projects.  Since 2007, has been associated to Test Automation / Digital Practice, Wipro Technologies.
  
