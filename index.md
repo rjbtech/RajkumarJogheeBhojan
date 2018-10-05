@@ -12,7 +12,7 @@
  
  ** Holds M.Sc., (Phy), MCA., M.Phil.,
  
- ** Has demonstrated expertise in Effort Estimation, Resource allocation & Loading, Project Tracking, Automating the functionality,         System/Integration/ Regression/UAT Testing with knowledge of all aspects of SDLC. 
+ ** Has demonstrated expertise in Effort Estimation, Resource allocation & Loading, Project Tracking, Automating the functionality, System/Integration/ Regression/UAT Testing with knowledge of all aspects of SDLC. 
  
  ** Has executed 25+ projects in diverse geographies including India, Australia & USA and contributed unique solutions to customers.  
     Worked as a Scrum Master in a couple of projects and has facilitated Scrum planning, Daily standup, reviewed backlogs, Sprint           Review, Sprint Retrospective meetings, stakeholder meetings and software demonstrations.
@@ -44,6 +44,15 @@
 
 
 **AREAS OF EXPERTISE:**
+
+ ** Deep Learning, Machine Learning & AI Research
+ 
+ ** Data Preprocessing, Analysis, Predictive Modeling and Visualization
+ 
+ ** Strong Experience with Python and its libraries such as Pandas, scikit, NumPy, SciPy, PyTest
+   DL Framework: Keras,TF & PyTorch
+   
+ ** Good Exposure in Computer Vision (CNN, YOLO, RNN, LSTM) and NLP technologies.
 
  ** TA Framework Designing & Development
  
