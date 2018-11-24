@@ -62,7 +62,9 @@
  
  ** Tools Used – Selenium, QTP/UFT, RFT, RQM, TDM (Data Maker),  Git/GitHub,  Robot, Silk Test, Squish, Ranorex, BDD, SVN, QC,               Appium, SeeTest, Dockers
  
-  ** Project/Program Management		
+ ** Project/Program Management		
+  
+ ** Deep Learning (Coursera)
   
  ** Certified Scrum Master (CSM)	
  
