@@ -2,12 +2,14 @@
 
 **SUMMARY:**
 
+ ** Patent Holder ** Reseracher  ** TA Architect ** Scrum Master ** Speaker ** Trainer ** Deep Learning Enthusiast 
+
  ** Accomplished Automation profession with 16 years of progressive experience and proven record of significant, 
     successful contribution in quality management, project management, process improvement, product-development life cycle                   methodologies and standards in a wide range of organizations. 
  
  **  Designed and developed many Test Automation Frameworks (Hybrid/Modular/Keyword/BDD) from scratch and implemented in many                projects.  Since 2007, has been associated to Test Automation / Digital Practice, Wipro Technologies.
  
- **  Designed and developed a couple of  Machine Learning pilot models for business scenarios 
+ **  Designed and developed a couple of  Machine Learning models for business scenarios 
  
  **  Has hands-on experience in Test Architecting, Planning, Developing Strategies, Framework Designing, Coding, Debugging and                implementing Automated Testing Projects. 
  
@@ -22,13 +24,13 @@
  
  ** Conducted 100+ Full time ILT training programs on Testing Tools/Scrum/ATDD&BDD and hundreds of software engineers got benefited         through these training.  Has introduced "Agile Testing", "RFT", “ATDD/BDD”, "Selenium WD" and “Jenkins” trainings at Wipro               Technologies. (includes Future Ready, Top Gear  Forums)
  
- ** Has published 25+ technical papers in International Conferences and reputed International Journals. 
+ ** Has published 30+ technical papers in International Conferences and reputed International Journals. 
     [Published Papers](https://scholar.google.com/citations?user=8NAaUygAAAAJ&hl=en)
     
    
  ** Spoke at [Google Tech Talks - ML Algorithms for setting up Mobile Test Environment](https://www.youtube.com/watch?v=RfQi5PNO4L8)
  
- ** [Deep Larning & Computer Vision to accelerate automaion in Automotive Industry] (https://1point21gws.com/testingsummit/boston/)
+ ** [Deep Learning & Computer Vision to accelerate automaion in Automotive Industry] (https://1point21gws.com/testingsummit/boston/)
  
  ** [AI in Test Automation] (https://1point21gws.com/testingsummit/pastevents/boston/)
  
