@@ -2,7 +2,7 @@
 
 **SUMMARY:**
 
- ** Accomplished Automation profession with 15 years of progressive experience and proven record of significant, 
+ ** Accomplished Automation profession with 16 years of progressive experience and proven record of significant, 
     successful contribution in quality management, project management, process improvement, product-development life cycle                   methodologies and standards in a wide range of organizations. 
  
  **  Designed and developed many Test Automation Frameworks (Hybrid/Modular/Keyword/BDD) from scratch and implemented in many                projects.  Since 2007, has been associated to Test Automation / Digital Practice, Wipro Technologies.
@@ -27,6 +27,10 @@
     
    
  ** Spoke at [Google Tech Talks - ML Algorithms for setting up Mobile Test Environment](https://www.youtube.com/watch?v=RfQi5PNO4L8)
+ 
+ ** Deep Larning & Computer Vision to accelerate automaion in Automotive Industry (https://1point21gws.com/testingsummit/boston/)
+ 
+ ** AI in Test Automation (https://1point21gws.com/testingsummit/pastevents/boston/)
  
  **  [STPCon-Fall 2017 - Leveraging Machine Learning Algorithm in Mobile Testing](http://fall2017.stpcon.com/speakers/rajkumar-j-bhojan/)
  
