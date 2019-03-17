@@ -11,7 +11,7 @@
  
  **  Has hands-on experience in Test Architecting, Planning, Developing Strategies, Framework Designing, Coding, Debugging and                implementing Automated Testing Projects. 
  
- ** Holds M.Sc., (Phy), MCA., M.Phil.,
+ **  Holds M.Sc., (Phy), MCA., M.Phil.,
  
  ** Has demonstrated expertise in Effort Estimation, Resource allocation & Loading, Project Tracking, Automating the functionality, 
     System/Integration/ Regression/UAT Testing with knowledge of all aspects of SDLC. 
@@ -28,17 +28,17 @@
    
  ** Spoke at [Google Tech Talks - ML Algorithms for setting up Mobile Test Environment](https://www.youtube.com/watch?v=RfQi5PNO4L8)
  
- ** Deep Larning & Computer Vision to accelerate automaion in Automotive Industry (https://1point21gws.com/testingsummit/boston/)
+ ** [Deep Larning & Computer Vision to accelerate automaion in Automotive Industry] (https://1point21gws.com/testingsummit/boston/)
  
- ** AI in Test Automation (https://1point21gws.com/testingsummit/pastevents/boston/)
+ ** [AI in Test Automation] (https://1point21gws.com/testingsummit/pastevents/boston/)
  
- **  [STPCon-Fall 2017 - Leveraging Machine Learning Algorithm in Mobile Testing](http://fall2017.stpcon.com/speakers/rajkumar-j-bhojan/)
+ **  [STPCon-Fall 2017 - Leveraging Machine Learning Algorithm in Mobile Testing] (http://fall2017.stpcon.com/speakers/rajkumar-j-bhojan/)
  
  ** [ITPC - BDD and Continuous Testing in DevOps Era](http://princetonacm.acm.org/tcfpro/TCF_ITPC_2016_Program.pdf)
  
- ** [ATAGG - Benefits of BDD in Digital Era](http://atagg.agiletestingalliance.org/speakers_details.html#rajkumar)
+ ** [ATAGG - Benefits of BDD in Digital Era ](http://atagg.agiletestingalliance.org/speakers_details.html#rajkumar)
  
- **  [IEEE,Oakland University - Cloud based Mobile Application Testing](http://sites.ieee.org/sem/files/2014/03/IEEE-SEM-S2014-Conf-Schedule-SPEAKERS-0325614.pdf)
+ ** [IEEE,Oakland University - Cloud based Mobile Application Testing](http://sites.ieee.org/sem/files/2014/03/IEEE-SEM-S2014-Conf-Schedule-SPEAKERS-0325614.pdf)
  
    
  ** Received “BEST Thought Leader – 2016” Award from Wipro BAS-QET.  
