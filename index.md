@@ -1,6 +1,6 @@
 **RAJKUMAR JOGHEE BHOJAN**
 
-**SUMMARY:**
+**SUMMARY:
 
  ** Patent Holder ** Reseracher  ** TA Architect ** Scrum Master ** Speaker ** Trainer ** Deep Learning Enthusiast 
 
@@ -15,20 +15,28 @@
  
  **  Holds M.Sc., (Phy), MCA., M.Phil.,
  
- ** Has demonstrated expertise in Effort Estimation, Resource allocation & Loading, Project Tracking, Automating the functionality, 
-    System/Integration/ Regression/UAT Testing with knowledge of all aspects of SDLC. 
+ **  Has demonstrated expertise in Effort Estimation, Resource allocation & Loading, Project Tracking, Automating the functionality, 
+     System/Integration/ Regression/UAT Testing with knowledge of all aspects of SDLC. 
  
- ** Has executed 27+ projects in diverse geographies including India, Australia & USA and contributed unique solutions to customers.  
-    Worked as a Scrum Master in a couple of projects and has facilitated Scrum planning, Daily standup, reviewed backlogs, Sprint 
-    Review, Sprint Retrospective meetings, stakeholder meetings and software demonstrations.
+ **  Has executed 27+ projects in diverse geographies including India, Australia & USA and contributed unique solutions to customers.  
+     Worked as a Scrum Master in a couple of projects and has facilitated Scrum planning, Daily standup, reviewed backlogs, Sprint 
+     Review, Sprint Retrospective meetings, stakeholder meetings and software demonstrations.
  
  ** Conducted 100+ Full time ILT training programs on Testing Tools/Scrum/ATDD&BDD and hundreds of software engineers got benefited         through these training.  Has introduced "Agile Testing", "RFT", “ATDD/BDD”, "Selenium WD" and “Jenkins” trainings at Wipro               Technologies. (includes Future Ready, Top Gear  Forums)
+ 
+ 
+ **PATENTS:**
+ 
+ US - 10055339, 10223240
+ 
+ **PUBLISHED PAPERS:**
  
  ** Has published 30+ technical papers in International Conferences and reputed International Journals. 
     [Published Papers](https://scholar.google.com/citations?user=8NAaUygAAAAJ&hl=en)
     
-   
- ** Spoke at [Google Tech Talks - ML Algorithms for setting up Mobile Test Environment](https://www.youtube.com/watch?v=RfQi5PNO4L8)
+**TECHNICAL TALKS:   
+
+ ** [Google Tech Talks - ML Algorithms for setting up Mobile Test Environment](https://www.youtube.com/watch?v=RfQi5PNO4L8)
  
  ** [Deep Learning & Computer Vision to accelerate automaion in Automotive Industry] (https://1point21gws.com/testingsummit/boston/)
  
@@ -42,17 +50,28 @@
  
  ** [IEEE,Oakland University - Cloud based Mobile Application Testing](http://sites.ieee.org/sem/files/2014/03/IEEE-SEM-S2014-Conf-Schedule-SPEAKERS-0325614.pdf)
  
-   
+ **VIDEOS:
+ 
+   [https://www.youtube.com/watch?v=ThU1DLG5Xo8]   
+ 
+ **AWARDS:
+ 
  ** Received “BEST Thought Leader – 2016” Award from Wipro BAS-QET.  
+ 
+ **CERTIFICATES & MEMBERSHIPS:
+ 
+ ** Deep Learning (Coursera)
+ 
+ ** Certified Scrum Master (CSM)
  
  ** Member of IEEE, ACM, Research Gate and AAAI
  
  ** Filed a couple of Patents in IPO, EPO and USPTO; Patents Inventions are spanning around AI agents and ML algorithms.
  
- ** Interested in implementing Digital technologies (Hyper Automation / DevOps /Machine Learning / AI)
+ ** Interested in implementing Digital technologies (Hyper Automation / Deep Learning / Machine Learning / AI)
 
 
-**AREAS OF EXPERTISE:**
+**AREAS OF EXPERTISE:
 
  ** Deep Learning, Machine Learning & AI Research
  
@@ -72,13 +91,11 @@
  ** Tools Used – Selenium, QTP/UFT, RFT, RQM, TDM (Data Maker),  Git/GitHub,  Robot, Silk Test, Squish, Ranorex, BDD, SVN, QC,               Appium, SeeTest, Dockers
  
  ** Project/Program Management		
-  
- ** Deep Learning (Coursera)
-  
- ** Certified Scrum Master (CSM)	
  
  ** Cloud Technology – AWS, GCP		
  
  ** Consulting & Customer Engagements	
  
  ** Languages -  Python / Java / VB /C#  
+ 
+
