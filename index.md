@@ -29,7 +29,7 @@
  
  US - 10055339, 10223240
  
- **PUBLISHED PAPERS:**
+ **PUBLISHED PAPERS:
  
  ** Has published 30+ technical papers in International Conferences and reputed International Journals. 
     [Published Papers](https://scholar.google.com/citations?user=8NAaUygAAAAJ&hl=en)
