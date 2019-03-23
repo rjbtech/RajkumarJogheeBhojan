@@ -1,6 +1,6 @@
 **RAJKUMAR JOGHEE BHOJAN**
 
-**SUMMARY:
+**SUMMARY:**
 
  ** Patent Holder ** Reseracher  ** TA Architect ** Scrum Master ** Speaker ** Trainer ** Deep Learning Enthusiast 
 
