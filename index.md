@@ -29,12 +29,12 @@
  
  US - 10055339, 10223240
  
- **PUBLISHED PAPERS:
+ **PUBLISHED PAPERS:**
  
  ** Has published 30+ technical papers in International Conferences and reputed International Journals. 
     [Published Papers](https://scholar.google.com/citations?user=8NAaUygAAAAJ&hl=en)
     
-**TECHNICAL TALKS:   
+**TECHNICAL TALKS:**   
 
  ** [Google Tech Talks - ML Algorithms for setting up Mobile Test Environment](https://www.youtube.com/watch?v=RfQi5PNO4L8)
  
@@ -50,15 +50,15 @@
  
  ** [IEEE,Oakland University - Cloud based Mobile Application Testing](http://sites.ieee.org/sem/files/2014/03/IEEE-SEM-S2014-Conf-Schedule-SPEAKERS-0325614.pdf)
  
- **VIDEOS:
+ **VIDEOS:**
  
    [https://www.youtube.com/watch?v=ThU1DLG5Xo8]   
  
- **AWARDS:
+ **AWARDS:**
  
  ** Received “BEST Thought Leader – 2016” Award from Wipro BAS-QET.  
  
- **CERTIFICATES & MEMBERSHIPS:
+ **CERTIFICATES & MEMBERSHIPS:**
  
  ** Deep Learning (Coursera)
  
@@ -71,7 +71,7 @@
  ** Interested in implementing Digital technologies (Hyper Automation / Deep Learning / Machine Learning / AI)
 
 
-**AREAS OF EXPERTISE:
+**AREAS OF EXPERTISE:**
 
  ** Deep Learning, Machine Learning & AI Research
  
