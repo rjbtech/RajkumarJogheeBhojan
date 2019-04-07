@@ -52,7 +52,7 @@
  
  **VIDEOS:**
  
-   [https://www.youtube.com/watch?v=ThU1DLG5Xo8]   
+   [Videos](https://www.youtube.com/watch?v=ThU1DLG5Xo8)  
  
  **AWARDS:**
  
