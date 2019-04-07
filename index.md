@@ -38,11 +38,11 @@
 
  ** [Google Tech Talks - ML Algorithms for setting up Mobile Test Environment](https://www.youtube.com/watch?v=RfQi5PNO4L8)
  
- ** [Deep Learning & Computer Vision to accelerate automaion in Automotive Industry] (https://1point21gws.com/testingsummit/boston/)
+ ** [Deep Learning & Computer Vision to accelerate automaion in Automotive Industry](https://1point21gws.com/testingsummit/boston/)
  
- ** [AI in Test Automation] (https://1point21gws.com/testingsummit/pastevents/boston/)
+ ** [AI in Test Automation](https://1point21gws.com/testingsummit/pastevents/boston/)
  
- **  [STPCon-Fall 2017 - Leveraging Machine Learning Algorithm in Mobile Testing] (http://fall2017.stpcon.com/speakers/rajkumar-j-bhojan/)
+ **  [STPCon-Fall 2017 - Leveraging Machine Learning Algorithm in Mobile Testing](http://fall2017.stpcon.com/speakers/rajkumar-j-bhojan/)
  
  ** [ITPC - BDD and Continuous Testing in DevOps Era](http://princetonacm.acm.org/tcfpro/TCF_ITPC_2016_Program.pdf)
  
