@@ -52,7 +52,7 @@
  
  **VIDEOS:**
  
-   [Videos](https://www.youtube.com/watch?v=ThU1DLG5Xo8)  
+   [A Friendly Introduction to Computer Vision](https://www.youtube.com/watch?v=ThU1DLG5Xo8)  
  
  **AWARDS:**
  
