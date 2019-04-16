@@ -2,7 +2,7 @@
 
 **SUMMARY:**
 
- ** Patent Holder ** Reseracher  ** TA Architect ** Scrum Master ** Speaker ** Trainer ** Deep Learning Enthusiast 
+ ** Patent Holder ** Researcher  ** TA Architect ** Scrum Master ** Speaker ** Trainer ** Deep Learning Enthusiast 
 
  ** Accomplished Automation profession with 16 years of progressive experience and proven record of significant, 
     successful contribution in quality management, project management, process improvement, product-development life cycle                   methodologies and standards in a wide range of organizations. 
