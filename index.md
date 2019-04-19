@@ -48,7 +48,7 @@
  
  ** [ATAGG - Benefits of BDD in Digital Era ](http://atagg.agiletestingalliance.org/speakers_details.html#rajkumar)
  
- ** [IEEE,Oakland University - Cloud based Mobile Application Testing](http://sites.ieee.org/sem/files/2014/03/IEEE-SEM-S2014-Conf-Schedule-SPEAKERS-0325614.pdf)
+ ** [IEEE,Oakland University - Cloud based Mobile Application Testing](https://r4.ieee.org/sem/wp-content/uploads/sites/6/2013/07/May_2014-WL_Rev1.pdf)
  
  **VIDEOS:**
  
