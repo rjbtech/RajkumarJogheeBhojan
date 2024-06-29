@@ -38,7 +38,7 @@
     
 **TECHNICAL TALKS:**   
 
- ** https://www.youtube.com/watch?v=osDOlYNFCys
+ ** [TEDx Boston](https://www.youtube.com/watch?v=osDOlYNFCys)
 
  ** [Google Tech Talks - ML Algorithms for setting up Mobile Test Environment](https://www.youtube.com/watch?v=RfQi5PNO4L8)
  
@@ -58,9 +58,9 @@
  
  LLM Agents
  
-[AI Agents] (https://www.youtube.com/watch?v=lDXSZyYTalU)
+[AI Agents MAS](https://www.youtube.com/watch?v=lDXSZyYTalU)
 
-[AI Solutions] (https://www.youtube.com/@airesearch7545)
+[AI Solutions](https://www.youtube.com/@airesearch7545)
  
  **AWARDS:**
  
