@@ -4,7 +4,7 @@
 
  •	Accomplished automation professional with over 18+ years of progressive experience, a proven track record of significant and successful contributions in data management, project management, process improvement, product development life cycle, SDLC methodologies, and standards across various organizations.
 
-•	Developed a "NextGen Automation" tool based on deep learning (DL), conversational AI BOT and natural language processing (NLP) for robust automated testing at the enterprise level.
+•	Architected and developed the in-house tool "NextGen Automation," incorporating Deep Learning Framework, conversational AI BOT (NLP Solution), GenAI tech, Angular, FastAPI, MongoDB, Pytest & Python-Selenium.
 
 •	Designed and developed the "Regression Suite Optimizer" ML model utilizing a Recommender system, effectively reducing a substantial amount of manual work.
 
