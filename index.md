@@ -2,39 +2,43 @@
 
 **SUMMARY:**
 
- ** Patent Holder ** Researcher  ** TA Architect ** Scrum Master ** Speaker ** Trainer ** Deep Learning Enthusiast 
+ •	Accomplished automation professional with over 18+ years of progressive experience, a proven track record of significant and successful contributions in data management, project management, process improvement, product development life cycle, SDLC methodologies, and standards across various organizations.
 
- ** Accomplished Automation profession with 16 years of progressive experience and proven record of significant, 
-    successful contribution in quality management, project management, process improvement, product-development life cycle                   methodologies and standards in a wide range of organizations. 
- 
- **  Designed and developed many Test Automation Frameworks (Hybrid/Modular/Keyword/BDD) from scratch and implemented in many                projects.  Since 2007, has been associated to Test Automation / Digital Practice, Wipro Technologies.
- 
- **  Designed and developed a couple of  Machine Learning models for business scenarios 
- 
- **  Has hands-on experience in Test Architecting, Planning, Developing Strategies, Framework Designing, Coding, Debugging and                implementing Automated Testing Projects. 
- 
- **  Holds M.Sc., (Phy), MCA., M.Phil.,
- 
- **  Has demonstrated expertise in Effort Estimation, Resource allocation & Loading, Project Tracking, Automating the functionality, 
-     System/Integration/ Regression/UAT Testing with knowledge of all aspects of SDLC. 
- 
- **  Has executed 27+ projects in diverse geographies including India, Australia & USA and contributed unique solutions to customers.  
-     Worked as a Scrum Master in a couple of projects and has facilitated Scrum planning, Daily standup, reviewed backlogs, Sprint 
-     Review, Sprint Retrospective meetings, stakeholder meetings and software demonstrations.
- 
- ** Conducted 100+ Full time ILT training programs on Testing Tools/Scrum/ATDD&BDD and hundreds of software engineers got benefited         through these training.  Has introduced "Agile Testing", "RFT", “ATDD/BDD”, "Selenium WD" and “Jenkins” trainings at Wipro               Technologies. (includes Future Ready, Top Gear  Forums)
- 
+•	Developed a "NextGen Automation" tool based on deep learning (DL), conversational AI BOT and natural language processing (NLP) for robust automated testing at the enterprise level.
+
+•	Designed and developed the "Regression Suite Optimizer" ML model utilizing a Recommender system, effectively reducing a substantial amount of manual work.
+
+•	Led numerous teams ranging from 5 to 20 members, consistently delivering projects on time. Managed multi-million-dollar projects across diverse geographies including Australia, the UK, and the USA since 2011.
+
+•	Possesses extensive experience with machine learning/deep learning tools and frameworks such as Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV, PySpark, SQL, PostgreSQL, AWS SageMaker, and Colab.
+
+•	Hands-on experience in planning, developing strategies, designing frameworks, coding, debugging, and implementing automation projects.
+
+•	Executed projects in various geographies including India, Australia, and the USA.
+
+•	Served as a Scrum Master on several projects, facilitating the overall SDLC process according to Scrum principles and delivering projects within estimated sprints.
+
+•	Conducted over 150 full-day ILT training programs on different tools, benefiting hundreds of software engineers.
+
+•	Published over 35 technical papers in international conferences and reputable journals.
+
+•	Holds multiple approved US patents granted by USPTO and a UK patent, all based on automation, software engineering utilizing ML and AI concepts.
+
+
  
  **PATENTS:**
  
- US - 10055339, 10223240
+ US - 10055339, 10223240, US10474561B2
+
  
  **PUBLISHED PAPERS:** 
  
- ** Has published 30+ technical papers in International Conferences and reputed International Journals. 
+ ** Has published 35+ technical papers in International Conferences and reputed International Journals. 
     [Published Papers](https://scholar.google.com/citations?user=8NAaUygAAAAJ&hl=en)
     
 **TECHNICAL TALKS:**   
+
+ ** https://www.youtube.com/watch?v=osDOlYNFCys
 
  ** [Google Tech Talks - ML Algorithms for setting up Mobile Test Environment](https://www.youtube.com/watch?v=RfQi5PNO4L8)
  
@@ -50,9 +54,13 @@
  
  ** [IEEE,Oakland University - Cloud based Mobile Application Testing](https://r4.ieee.org/sem/wp-content/uploads/sites/6/2013/07/May_2014-WL_Rev1.pdf)
  
- **VIDEOS:**
+ **VIDEOS:**  
  
-   [A Friendly Introduction to Computer Vision](https://www.youtube.com/watch?v=ThU1DLG5Xo8)  
+ LLM Agents
+ 
+https://www.youtube.com/watch?v=lDXSZyYTalU
+
+https://www.youtube.com/@airesearch7545
  
  **AWARDS:**
  
