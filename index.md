@@ -58,9 +58,9 @@
  
  LLM Agents
  
-https://www.youtube.com/watch?v=lDXSZyYTalU
+[AI Agents] (https://www.youtube.com/watch?v=lDXSZyYTalU)
 
-https://www.youtube.com/@airesearch7545
+[AI Solutions] (https://www.youtube.com/@airesearch7545)
  
  **AWARDS:**
  
@@ -96,7 +96,9 @@ https://www.youtube.com/@airesearch7545
  
  ** CI-Continuous Integration (Jenkins)	
  
- ** Tools Used – Selenium, QTP/UFT, RFT, RQM, TDM (Data Maker),  Git/GitHub,  Robot, Silk Test, Squish, Ranorex, BDD, SVN, QC,               Appium, SeeTest, Dockers
+ ** Tools Used – Python, OpenCV, NLP, Angular, PostgreSQL, FastAPI, Pandas, PyTest, MongoDB, AWS & GitHub co-pilot.PyTest, DataCompy, Snowflake, DB2, Redshift and Oracle
+
+
  
  ** Project/Program Management		
  
